@@ -7,6 +7,8 @@ darkfail.us
 fail.li
 
 # Fake Dark.fail .onions
+## darkfail.org
+pn5u7ipfsdmaa75j.onion
 ## darknet.live
 lh27kbpeptfyz6tn.onion
 
@@ -49,19 +51,7 @@ ctocqcwbqlmj7b7t.onion
 hai7bdyezaqpqzyi.onion
 zlxczxtsq3yvnxyz.onion
 
-## darkfail.live
-empire5dxoehqwhi.onion
-
-## deepwebsiteslinks.com
-mqpawblcdfnwuyzv.onion
-emwso2kqumrmvhdo.onion
-mbmhrq6ffty6d2dv.onion
-kwoogwb5ok4norzb.onion
-xv4y3off24ikreql.onion
-z56zrg5hdong25wf.onion
-bvolmwh7g644n3q3.onion
-
-## empiremarketlink.com
+## deepwebsiteslinks.com, empiremarketlink.com
 mqpawblcdfnwuyzv.onion
 emwso2kqumrmvhdo.onion
 mbmhrq6ffty6d2dv.onion
