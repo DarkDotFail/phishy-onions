@@ -1,5 +1,5 @@
 # Impersonating Dark.fail
-darkj.fail
+darj.fail
 darkfail.org
 darkfail.link
 darkfail.live
