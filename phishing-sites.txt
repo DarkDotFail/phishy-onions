@@ -41,6 +41,7 @@ empireazunrrjhul.onion
 
 ## darkfail.live
 empire5dxoehqwhi.onion
+k43p4f5wtlems56j.onion
 
 ## darkfail.io, darkfail.us, darkfail.link, darkfail.us
 vnxvshyyv3zb4asu.onion
@@ -59,3 +60,7 @@ kwoogwb5ok4norzb.onion
 xv4y3off24ikreql.onion
 z56zrg5hdong25wf.onion
 bvolmwh7g644n3q3.onion
+
+# Seen from Dread - Empire
+nidw4wdp6ndui2n5oq2az6hubnehyctkelcjlrtmyv7rne43mohirsyd.onion
+
